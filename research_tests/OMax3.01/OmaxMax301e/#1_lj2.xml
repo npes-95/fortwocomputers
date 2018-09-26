@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "#1_lj">
+	<slot number = "1" name = "R:17-68_Q2_c41">
+		<patcher name = "gestionpatt">
+			<pattr name = "OMaxContinuity" value = "41" />
+			<pattr name = "OMaxSetQuality" value = "2" />
+			<pattr name = "TimeOrPhraseRange" value = "0" />
+			<pattr name = "TimePhraseRange" value = "17321 68881" />
+			<pattr name = "poursuite" value = "15000" />
+			<pattr name = "region_value[2]" value = "1" />
+			<pattr name = "startonboundary" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "2" name = "A:Ph10-11_Q2_c45">
+		<patcher name = "gestionpatt">
+			<pattr name = "OMaxContinuity" value = "45" />
+			<pattr name = "OMaxSetQuality" value = "2" />
+			<pattr name = "TimeOrPhraseRange" value = "1" />
+			<pattr name = "TimePhraseRange" value = "10 11" />
+			<pattr name = "poursuite" value = "3920" />
+			<pattr name = "region_value[2]" value = "0" />
+			<pattr name = "startonboundary" value = "0" />
+		</patcher>
+	</slot>
+	<slot number = "3" name = "R[7-20_Q2_c86">
+		<patcher name = "gestionpatt">
+			<pattr name = "OMaxContinuity" value = "86" />
+			<pattr name = "OMaxSetQuality" value = "2" />
+			<pattr name = "TimeOrPhraseRange" value = "0" />
+			<pattr name = "TimePhraseRange" value = "7251 20141" />
+			<pattr name = "poursuite" value = "15000" />
+			<pattr name = "region_value[2]" value = "1" />
+			<pattr name = "startonboundary" value = "1" />
+		</patcher>
+	</slot>
+	<slot number = "4" name = "FL10000ms_Q3_c123">
+		<patcher name = "gestionpatt">
+			<pattr name = "OMaxContinuity" value = "123" />
+			<pattr name = "OMaxSetQuality" value = "3" />
+			<pattr name = "TimeOrPhraseRange" value = "" />
+			<pattr name = "TimePhraseRange" value = "202943 207233" />
+			<pattr name = "poursuite" value = "10000" />
+			<pattr name = "region_value[2]" value = "3" />
+			<pattr name = "startonboundary" value = "0" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
